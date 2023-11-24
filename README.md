@@ -1,4 +1,4 @@
-# The release of IELTS computer-based test results is delayed, involving hundreds of thousands of people! After complaining to senior management of the organizer the British Council, the officials tried to get me to sign a coupon to keep it secret!
+# The release of IELTS computer-based test results has been delayed, affecting hundreds of thousands of people! After complaining to the senior management of the organizer, the British Council, the officials tried to get me to sign a coupon to keep it a secret!
 
 If you'd like to read Chinese language version, please click here:
 https://zhuanlan.zhihu.com/p/662803637

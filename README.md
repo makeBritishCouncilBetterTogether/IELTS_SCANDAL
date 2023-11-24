@@ -46,7 +46,7 @@ Preliminary investigation shows that this incident is not an isolated case, nor 
 ![people in different countries have encountered this issue](./delay_8.png)
 
 ## The British Council's Attitude
-### A large number of complaints were dismissed without substantial compensation.
+### A large number of complaints were dismissed without any compensation.
 <br>
 
 ![people haven't received any fund or reimbursement](./no_fund_1.jpg)

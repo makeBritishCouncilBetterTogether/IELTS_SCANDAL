@@ -19,7 +19,7 @@ After further investigation, I found that there is not only me but also many oth
 
 ## Impact Of the Incident
 
-Preliminary investigation shows that this incident is not an isolated case, nor is it a single examination room. The delay in test results involves multiple countries and lasts for dozens of days. Calculated based on the number of IELTS computer-based test centers and the popularity of registration (even in a test center with a small number of candidates, more than 10 people will participate in an exam. The entire summer is a hot season for IELTS registration, and most of the sessions are full). Delays in the release of computer-based test results caused by the organizer's system failure can affect hundreds of thousands to millions of people (conservative estimates).
+Preliminary investigation shows that this incident is not an isolated case, nor is it a single examination room. The delay in test results involves multiple countries and lasts for dozens of days. Calculated based on the number of IELTS computer-based test centers and the popularity of registration (even in a test center with a small number of candidates, more than 10 people will participate in an exam. The entire summer is a hot season for IELTS registration, and most of the sessions are full). Delays in the release of computer-based test results caused by the organizer's system failure can affect **hundreds of thousands to millions of people** (conservative estimates). As a result, **many of them would lose job or university offer**.
 <br>
 
 ![people in different countries have encountered this issue](./delay_example_1.jpeg)

@@ -1,4 +1,4 @@
-# The release of IELTS computer-based test results has been delayed, affecting hundreds of thousands of people! After complaining to the senior management of the organizer, the British Council, the officials tried to get me to sign a coupon to keep it a secret!
+# The release of IELTS scores was delayed due to official system failure, which led to many people losing their job or university offer. The organizer, the British Council, refuses to compensate unless a confidentiality agreement is signed.
 
 If you'd like to read Chinese language version, please click here:
 https://zhuanlan.zhihu.com/p/662803637

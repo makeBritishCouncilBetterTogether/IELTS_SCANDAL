@@ -13,9 +13,9 @@ The IELTS system is highly regarded and widely recognised as the world’s most 
 
 ### What Happened this Year about the IELTS?
 
-I took the IELTS computer-based test in August 2023 and then received a text message notification from the organizer, the British Council (hereinafter referred to as BC), that the results were delayed. Before registering, I browsed the BC official website and found that it advertised that the IELTS computer-based test results would be available 3 days after the test. So, I chose to register for the IELTS computer-based test. However, the actual situation is that the results are not announced until 10 days after the exam, which is seriously inconsistent with the publicity on its official website. This delay has led me to suspect that BC may be violating the law.
+I took the IELTS computer-based test in August 2023 in China and then received a text message notification from the organizer, the British Council (hereinafter referred to as BC), that the results were delayed. Before registering, I browsed the BC official website and found that it advertised that the IELTS computer-based test results would be available 3 days after the test. So, I chose to register for the IELTS computer-based test. However, the actual situation is that the results are not announced until 10 days after the exam, which is seriously inconsistent with the publicity on its official website. This delay has led me to suspect that BC may be violating the law.
 
-After further investigation, I found that many other people have also been affected by BC’s system failure.**many of them even have lost job or university offer**.
+After further investigation, I found that many other people have also been affected by BC’s system failure, and **many of them have even lost job or university offer without any compensation**.
 
 ## Impact Of the Incident
 
@@ -59,7 +59,7 @@ The process is relatively tortuous and complicated:
 
 #### 1. The deputy director of examination business quoted inappropriate terms
 
-After the complaint was made to Nick Godfrey, the then Director of Examinations in China, he handed the matter over to Nathan Hu (Hu Yang), Deputy Director of Examination Business. The deputy director initially expressed his apologies and thanked me for my suggestions. He said that they had changed the inappropriate expression, but quoted the clause stating that they could not compensate:
+After sending multiple emails to BC’s dedicated complaint email address, I received only an apology and no compensation. Therefore, I decided to send email to Nick Godfrey, the then Director of Examinations in China, he handed the matter over to Nathan Hu (Chinese name: 胡洋), Deputy Director of Examination Business in China. The deputy director initially expressed his apologies and thanked me for my suggestions. He said that they had changed the inappropriate expression, but quoted the clause stating that they could not compensate:
 
 Nathan HU wrote:
 "

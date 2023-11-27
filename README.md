@@ -331,6 +331,15 @@ I have reviewed the details of your case with our team in China. I understand th
 
 Having reviewed your case, I consider our offer to be proportionate and appropriate given the circumstances and inconvenience you have faced. I hope you will accept the offer and carry on with your IELTS journey
 "
+## Relevant cases
+
+After announcing this incident on Chinese social media, other candidates who were affected by delays in the system like me claimed their exam vouchers. The response from the company was that they were unable to satisfy the request for compensation, and no candidate received a free retake opportunity. <br>
+
+![Relevant_case_sc_1](./Relevant_case_sc_1.jpeg)
+<br>
+
+![Relevant_case_sc_2](./Relevant_case_sc_2.jpeg)
+<br>
 
 ## Follow-up measures
 1. Continue to retain and exercise my legal rights. Make it public on social networking sites.

@@ -119,7 +119,7 @@ Once again, I appreciate your understanding and trust in IELTS.
 
 ![huang_email_2](./huyang_2.png)
 
-#### 2. Let us clearly inform you again: the organizer’s own mistakes should not be borne by the candidates.
+#### 2. Let me clearly inform you again: the organizer’s own mistakes should not be borne by the candidates.
 
 In my mind: I spent 2,170 yuan on a service, but you failed to deliver as promised. You gave me a book that I can’t use, and the original price is not even a fraction of the price. How can I accept this... Besides, even according to the exam terms According to the terms, I only agreed to accept the delay caused by you randomly checking my scores. It did not mention that I, a candidate who spent money, would be responsible for the mistakes you made! So I continued to send emails to Nathan Hu (Hu Yang), and these emails were also copied to director Nick Godfrey:
 "Hey Nathan Hu,
